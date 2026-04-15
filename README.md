@@ -1,2 +1,18 @@
 # SEPclass-blog-platform
-A campus-focused microblogging system featuring categorized sections (e.g., Campus Life) and interactive feeds, designed for seamless information sharing and student engagement.
+### 成员账号：
+
+evermore127-王佳闻
+
+bramble77-王榕祺
+
+Qing1012-杨小英
+
+### 01 可行性分析(研究)报告
+
+**成员分工：**
+
+田依然：负责第1章、第2章2.1-2.3、第3章、第4章、第5章以及附录A、附录B大部分。
+
+王佳闻：主要负责第2章2.3、第3章3.3、第四章4.8、第五章5.4、附录A、附录C以及一些修改部分。
+
+其他成员（杨小英、王榕祺）本次未参与报告撰写，主要进行报告的检查审核与建议。
